@@ -2,5 +2,5 @@
 body{ 
     background-color: rgb(95, 95, 225);
     color: black;
-     font-family: "Bitcount Prop Single Ink", 
+  font-family: "Bitcount Prop Single Ink", system-ui; 
 }
