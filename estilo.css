@@ -23,3 +23,6 @@ main{
 .img01{
   width: 44%;
 }
+.passo.ativo{
+  display: block;
+}
