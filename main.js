@@ -3,6 +3,6 @@ console.log(avanca)
 
 avanca.forEach(button => {
 buttton.addEventListener('click',function () {
-
+const atual = documen.querySelector('.ativo')
    })
 })
