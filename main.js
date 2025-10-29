@@ -1,2 +1,2 @@
-const avanca =documen.querySelectorAll('.btn-proximo')
+const avanca =document.querySelectorAll('.btn-proximo')
 console.log(avanca)
